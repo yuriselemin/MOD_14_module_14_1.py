@@ -45,3 +45,5 @@ for user in users:
 
 connection.commit()
 connection.close()
+
+
